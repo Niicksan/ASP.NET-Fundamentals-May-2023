@@ -1,0 +1,31 @@
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\bin\Debug\net6.0\appsettings.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\bin\Debug\net6.0\ASP.NET Core Introduction - Exercise.staticwebassets.runtime.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\bin\Debug\net6.0\ASP.NET Core Introduction - Exercise.exe
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\bin\Debug\net6.0\ASP.NET Core Introduction - Exercise.deps.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\bin\Debug\net6.0\ASP.NET Core Introduction - Exercise.runtimeconfig.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\bin\Debug\net6.0\ASP.NET Core Introduction - Exercise.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\bin\Debug\net6.0\ASP.NET Core Introduction - Exercise.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.RazorAssemblyInfo.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.RazorAssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET Core Introduction - Exercise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET Core Introduction - Exercise.props
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Core Introduction - Exercise.props
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET Core Introduction - Exercise.props
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Core Introduction - Exercise.styles.css
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET Core Introduction - Exercise.bundle.scp.css
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\refint\ASP.NET Core Introduction - Exercise.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ASP.NET Core Introduction - Exercise.genruntimeconfig.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\ASP.NET Core Introduction - Exercise\ASP.NET Core Introduction - Exercise\obj\Debug\net6.0\ref\ASP.NET Core Introduction - Exercise.dll

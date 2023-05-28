@@ -1,0 +1,40 @@
+﻿﻿@using ASP.NET_Core_Introduction___Exercise.ViewModels.Product;
+@model IEnumerable<ProductViewModel>
+
+@{
+    ViewData["Title"] = "All Products";
+}
+
+<div class="container-fluid">
+    <div class="row row-cols-4 justify-content-center" style="margin-bottom: 10px">
+        <form asp-controller="Product" asp-action="AllProducts" method="get">
+            <div class="input-group">
+                <input type="search" name="keyword" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+                <button type="submit" class="btn btn-outline-primary">search</button>
+            </div>
+        </form>
+    </div>
+    <div class="row row-cols-12 d-flex flex-column">
+        <div class="col-md-12 d-flex justify-content-center">
+            <div class="card" style="width: 18rem">
+                <div class="card-header">@ViewData["Title"]</div>
+                <ul class="list-group list-group-flush">
+                    @if (Model.Any())
+                    {
+                        @foreach (ProductViewModel product in Model)
+                        {
+                            <li class="list-group-item"><a href="/products/details/@product.Id">@product.Name - @product.Price$</a></li>
+                        }
+                    }
+                    else
+                    {
+                        <p>Product not found!</p>
+                    }
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-12 d-flex justify-content-center" style="margin-top: 10px">
+            <a class="btn btn-primary" asp-controller="Product" asp-action="DownloadProductsInfo">Download products info</a>
+        </div>
+    </div>
+</div>

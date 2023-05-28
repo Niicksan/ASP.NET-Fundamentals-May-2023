@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP.NET Core Introduction - Exercise.props" />
+</Project>
