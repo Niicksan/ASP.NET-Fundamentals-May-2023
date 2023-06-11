@@ -8,7 +8,6 @@
         [Key]
         public int Id { get; set; }
 
-
         [Required]
         [MinLength(TitleMinLength)]
         [MaxLength(TitleMaxLength)]
