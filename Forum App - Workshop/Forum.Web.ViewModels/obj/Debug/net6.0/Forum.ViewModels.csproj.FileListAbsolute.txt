@@ -1,0 +1,15 @@
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\bin\Debug\net6.0\Forum.ViewModels.deps.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\bin\Debug\net6.0\Forum.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\bin\Debug\net6.0\Forum.ViewModels.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.ViewModels.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\obj\Debug\net6.0\refint\Forum.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.ViewModels.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\obj\Debug\net6.0\ref\Forum.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\bin\Debug\net6.0\Forum.Common.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\bin\Debug\net6.0\Forum.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.ViewModels.csproj.CopyComplete

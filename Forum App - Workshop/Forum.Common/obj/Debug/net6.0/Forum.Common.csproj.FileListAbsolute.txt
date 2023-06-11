@@ -1,0 +1,12 @@
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\bin\Debug\net6.0\Forum.Common.deps.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\bin\Debug\net6.0\Forum.Common.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\bin\Debug\net6.0\Forum.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\obj\Debug\net6.0\refint\Forum.Common.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\obj\Debug\net6.0\Forum.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\Forum App - Workshop\Forum.Common\obj\Debug\net6.0\ref\Forum.Common.dll
