@@ -5,3 +5,6 @@
 
 ## Update Database
 `Update-Database`
+
+## Update and Seed Database
+`Add-Migration CreateAndSeedDb -OutputDir Migrations`
