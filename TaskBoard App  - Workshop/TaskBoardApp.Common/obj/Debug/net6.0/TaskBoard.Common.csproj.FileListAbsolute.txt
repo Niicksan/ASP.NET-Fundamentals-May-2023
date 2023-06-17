@@ -1,0 +1,12 @@
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\bin\Debug\net6.0\TaskBoard.Common.deps.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\bin\Debug\net6.0\TaskBoard.Common.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\bin\Debug\net6.0\TaskBoard.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoard.Common.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoard.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoard.Common.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoard.Common.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoard.Common.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoard.Common.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\obj\Debug\net6.0\refint\TaskBoard.Common.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoard.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoardApp.Common\obj\Debug\net6.0\ref\TaskBoard.Common.dll

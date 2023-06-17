@@ -1,0 +1,10 @@
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.Services\bin\Debug\netstandard2.1\TaskBoard.Services.deps.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.Services\bin\Debug\netstandard2.1\TaskBoard.Services.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.Services\bin\Debug\netstandard2.1\TaskBoard.Services.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.Services\obj\Debug\netstandard2.1\TaskBoard.Services.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.Services\obj\Debug\netstandard2.1\TaskBoard.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.Services\obj\Debug\netstandard2.1\TaskBoard.Services.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.Services\obj\Debug\netstandard2.1\TaskBoard.Services.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.Services\obj\Debug\netstandard2.1\TaskBoard.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.Services\obj\Debug\netstandard2.1\TaskBoard.Services.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.Services\obj\Debug\netstandard2.1\TaskBoard.Services.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Board\BoardSelectViewModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Board\BoardSelectViewModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskBoardApp.Common\TaskBoard.Common.csproj" />
+  </ItemGroup>
+
+</Project>

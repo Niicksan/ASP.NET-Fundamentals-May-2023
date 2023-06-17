@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskBoard.Data.Models\TaskBoard.Data.Models.csproj" />
+    <ProjectReference Include="..\TaskBoard.Data\TaskBoard.Data.csproj" />
+    <ProjectReference Include="..\TaskBoard.ViewModels\TaskBoard.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

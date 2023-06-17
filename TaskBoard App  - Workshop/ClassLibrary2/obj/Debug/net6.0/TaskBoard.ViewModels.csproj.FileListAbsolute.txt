@@ -1,0 +1,15 @@
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\bin\Debug\net6.0\TaskBoard.ViewModels.deps.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\bin\Debug\net6.0\TaskBoard.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\bin\Debug\net6.0\TaskBoard.ViewModels.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\bin\Debug\net6.0\TaskBoard.Common.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\bin\Debug\net6.0\TaskBoard.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\obj\Debug\net6.0\TaskBoard.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\obj\Debug\net6.0\TaskBoard.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\obj\Debug\net6.0\TaskBoard.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\obj\Debug\net6.0\TaskBoard.ViewModels.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\obj\Debug\net6.0\TaskBoard.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\obj\Debug\net6.0\TaskBoard.ViewModels.csproj.CopyComplete
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\obj\Debug\net6.0\TaskBoard.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\obj\Debug\net6.0\refint\TaskBoard.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\obj\Debug\net6.0\TaskBoard.ViewModels.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\ClassLibrary2\obj\Debug\net6.0\ref\TaskBoard.ViewModels.dll

@@ -1,0 +1,10 @@
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.ViewModels\bin\Debug\netstandard2.1\TaskBoard.ViewModels.deps.json
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.ViewModels\bin\Debug\netstandard2.1\TaskBoard.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.ViewModels\bin\Debug\netstandard2.1\TaskBoard.ViewModels.pdb
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.ViewModels\obj\Debug\netstandard2.1\TaskBoard.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.ViewModels\obj\Debug\netstandard2.1\TaskBoard.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.ViewModels\obj\Debug\netstandard2.1\TaskBoard.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.ViewModels\obj\Debug\netstandard2.1\TaskBoard.ViewModels.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.ViewModels\obj\Debug\netstandard2.1\TaskBoard.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.ViewModels\obj\Debug\netstandard2.1\TaskBoard.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Fundamentals - May 2023\TaskBoard App  - Workshop\TaskBoard.ViewModels\obj\Debug\netstandard2.1\TaskBoard.ViewModels.pdb
