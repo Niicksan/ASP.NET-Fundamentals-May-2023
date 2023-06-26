@@ -1,29 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YFKNTH67xKDdxr8z+hxqp9GlOXdwg6Kt0/apu2i24P+5I2ldlkFiyE6L5upJWaGNc/uzZaQvnZ5Da3se85Hedg==",
-  "success": false,
+  "dgSpecHash": "hIyE/A1yLsoezJJPnMznPtCuGLoEidARC8oUmbv02bsCSFtDnJj1XS/1V7B3aOX4ij9gcS5HL27X7QmIkYKtYw==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.ViewModels\\TaskBoard.ViewModels.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Nik\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.15\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.15.nupkg.sha512"
-  ],
-  "logs": [
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.15 is not compatible with netstandard2.1 (.NETStandard,Version=v2.1). Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.15 supports: net6.0 (.NETCoreApp,Version=v6.0)",
-      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project TaskBoard.Common is not compatible with netstandard2.1 (.NETStandard,Version=v2.1). Project TaskBoard.Common supports: net6.0 (.NETCoreApp,Version=v6.0)",
-      "libraryId": "TaskBoard.Common",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    }
-  ]
+  "expectedPackageFiles": [],
+  "logs": []
 }

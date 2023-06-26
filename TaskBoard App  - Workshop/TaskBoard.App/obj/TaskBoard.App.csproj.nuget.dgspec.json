@@ -4,136 +4,6 @@
     "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.App\\TaskBoard.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary1\\TaskBoard.Services.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary1\\TaskBoard.Services.csproj",
-        "projectName": "TaskBoard.Services",
-        "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary1\\TaskBoard.Services.csproj",
-        "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary1\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Nik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary2\\TaskBoard.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary2\\TaskBoard.ViewModels.csproj"
-              },
-              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data.Models\\TaskBoard.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data.Models\\TaskBoard.Data.Models.csproj"
-              },
-              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data\\TaskBoard.Data.csproj": {
-                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data\\TaskBoard.Data.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.16, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary2\\TaskBoard.ViewModels.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary2\\TaskBoard.ViewModels.csproj",
-        "projectName": "TaskBoard.ViewModels",
-        "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary2\\TaskBoard.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary2\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Nik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoardApp.Common\\TaskBoard.Common.csproj": {
-                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoardApp.Common\\TaskBoard.Common.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.App\\TaskBoard.App.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -159,11 +29,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary1\\TaskBoard.Services.csproj": {
-                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary1\\TaskBoard.Services.csproj"
-              },
               "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data\\TaskBoard.Data.csproj": {
                 "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data\\TaskBoard.Data.csproj"
+              },
+              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Services\\TaskBoard.Services.csproj": {
+                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Services\\TaskBoard.Services.csproj"
               }
             }
           }
@@ -228,6 +98,61 @@
         }
       }
     },
+    "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Common\\TaskBoard.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Common\\TaskBoard.Common.csproj",
+        "projectName": "TaskBoard.Common",
+        "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Common\\TaskBoard.Common.csproj",
+        "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data.Models\\TaskBoard.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -252,8 +177,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoardApp.Common\\TaskBoard.Common.csproj": {
-                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoardApp.Common\\TaskBoard.Common.csproj"
+              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Common\\TaskBoard.Common.csproj": {
+                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Common\\TaskBoard.Common.csproj"
               }
             }
           }
@@ -372,14 +297,14 @@
         }
       }
     },
-    "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoardApp.Common\\TaskBoard.Common.csproj": {
+    "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Services\\TaskBoard.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoardApp.Common\\TaskBoard.Common.csproj",
-        "projectName": "TaskBoard.Common",
-        "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoardApp.Common\\TaskBoard.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Services\\TaskBoard.Services.csproj",
+        "projectName": "TaskBoard.Services",
+        "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Services\\TaskBoard.Services.csproj",
         "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoardApp.Common\\obj\\",
+        "outputPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -395,7 +320,82 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data.Models\\TaskBoard.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data.Models\\TaskBoard.Data.Models.csproj"
+              },
+              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data\\TaskBoard.Data.csproj": {
+                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data\\TaskBoard.Data.csproj"
+              },
+              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.ViewModels\\TaskBoard.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.ViewModels\\TaskBoard.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.ViewModels\\TaskBoard.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.ViewModels\\TaskBoard.ViewModels.csproj",
+        "projectName": "TaskBoard.ViewModels",
+        "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.ViewModels\\TaskBoard.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Common\\TaskBoard.Common.csproj": {
+                "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Common\\TaskBoard.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

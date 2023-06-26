@@ -2237,8 +2237,8 @@
     },
     "TaskBoard.Common/1.0.0": {
       "type": "project",
-      "path": "../TaskBoardApp.Common/TaskBoard.Common.csproj",
-      "msbuildProject": "../TaskBoardApp.Common/TaskBoard.Common.csproj"
+      "path": "../TaskBoard.Common/TaskBoard.Common.csproj",
+      "msbuildProject": "../TaskBoard.Common/TaskBoard.Common.csproj"
     },
     "TaskBoard.Data.Models/1.0.0": {
       "type": "project",

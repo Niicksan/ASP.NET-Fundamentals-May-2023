@@ -10518,8 +10518,8 @@
     },
     "TaskBoard.Common/1.0.0": {
       "type": "project",
-      "path": "../TaskBoardApp.Common/TaskBoard.Common.csproj",
-      "msbuildProject": "../TaskBoardApp.Common/TaskBoard.Common.csproj"
+      "path": "../TaskBoard.Common/TaskBoard.Common.csproj",
+      "msbuildProject": "../TaskBoard.Common/TaskBoard.Common.csproj"
     },
     "TaskBoard.Data/1.0.0": {
       "type": "project",
@@ -10533,13 +10533,13 @@
     },
     "TaskBoard.Services/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary1/TaskBoard.Services.csproj",
-      "msbuildProject": "../ClassLibrary1/TaskBoard.Services.csproj"
+      "path": "../TaskBoard.Services/TaskBoard.Services.csproj",
+      "msbuildProject": "../TaskBoard.Services/TaskBoard.Services.csproj"
     },
     "TaskBoard.ViewModels/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary2/TaskBoard.ViewModels.csproj",
-      "msbuildProject": "../ClassLibrary2/TaskBoard.ViewModels.csproj"
+      "path": "../TaskBoard.ViewModels/TaskBoard.ViewModels.csproj",
+      "msbuildProject": "../TaskBoard.ViewModels/TaskBoard.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -10582,11 +10582,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary1\\TaskBoard.Services.csproj": {
-              "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\ClassLibrary1\\TaskBoard.Services.csproj"
-            },
             "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data\\TaskBoard.Data.csproj": {
               "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Data\\TaskBoard.Data.csproj"
+            },
+            "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Services\\TaskBoard.Services.csproj": {
+              "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Services\\TaskBoard.Services.csproj"
             }
           }
         }

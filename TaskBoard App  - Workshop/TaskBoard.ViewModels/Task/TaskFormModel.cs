@@ -1,6 +1,9 @@
 ﻿namespace TaskBoard.ViewModels.Task
 {
     using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
+    using TaskBoard.ViewModels.Board;
+    using static Common.EntityValidationConstants.Task;
 
     public class TaskFormModel
     {
@@ -16,6 +19,8 @@
 
         [Display(Name = "Board")]
         public int BoardId { get; set; }
+
+        public string? OwnerId { get; set; }
 
         public IEnumerable<BoardSelectViewModel>? AllBoards { get; set; }
     }

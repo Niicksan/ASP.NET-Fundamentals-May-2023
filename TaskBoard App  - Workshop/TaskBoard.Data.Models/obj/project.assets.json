@@ -824,8 +824,8 @@
     },
     "TaskBoard.Common/1.0.0": {
       "type": "project",
-      "path": "../TaskBoardApp.Common/TaskBoard.Common.csproj",
-      "msbuildProject": "../TaskBoardApp.Common/TaskBoard.Common.csproj"
+      "path": "../TaskBoard.Common/TaskBoard.Common.csproj",
+      "msbuildProject": "../TaskBoard.Common/TaskBoard.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -861,8 +861,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoardApp.Common\\TaskBoard.Common.csproj": {
-              "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoardApp.Common\\TaskBoard.Common.csproj"
+            "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Common\\TaskBoard.Common.csproj": {
+              "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Fundamentals - May 2023\\TaskBoard App  - Workshop\\TaskBoard.Common\\TaskBoard.Common.csproj"
             }
           }
         }

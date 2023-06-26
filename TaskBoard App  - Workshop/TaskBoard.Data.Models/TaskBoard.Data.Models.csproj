@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TaskBoardApp.Common\TaskBoard.Common.csproj" />
+    <ProjectReference Include="..\TaskBoard.Common\TaskBoard.Common.csproj" />
   </ItemGroup>
 
 </Project>

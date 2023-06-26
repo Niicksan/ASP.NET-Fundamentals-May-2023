@@ -68,8 +68,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Nik/Documents/ASP.NET Fundamentals - May 2023/TaskBoard App  - Workshop/TaskBoard.App/Views/Task/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Nik/Documents/ASP.NET Fundamentals - May 2023/TaskBoard App  - Workshop/TaskBoard.App/Views/Task/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nik/Documents/ASP.NET Fundamentals - May 2023/TaskBoard App  - Workshop/TaskBoard.App/Views/Task/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Nik/Documents/ASP.NET Fundamentals - May 2023/TaskBoard App  - Workshop/TaskBoard.App/Views/_ViewImports.cshtml]
